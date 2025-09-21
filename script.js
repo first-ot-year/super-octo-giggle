@@ -39,4 +39,4 @@ onload = () => {
   volumeSlider.addEventListener('input', () => {
     audio.volume = volumeSlider.value;
   });
-};
+}; 
